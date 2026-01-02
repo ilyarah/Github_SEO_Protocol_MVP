@@ -1,0 +1,8 @@
+pygithub
+nltk
+google-api-python-client
+oauth2client
+sqlite3
+matplotlib
+jinja2
+retrying

@@ -1,0 +1,1 @@
+SEO Protocol for GitHub repositories - MIT License
