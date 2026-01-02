@@ -112,6 +112,3 @@ Contributions, feedback, and issue reports are warmly welcomed.
 ---
 
 **Repository maintained by** [@ilyarah](https://github.com/ilyarah)
-```
-
-This version maintains the professional tone while preserving the clear value proposition, feature table, quick-start instructions, and visual hierarchy that make it effective for both technical users and potential collaborators.
